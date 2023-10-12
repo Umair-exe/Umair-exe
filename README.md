@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hello there! I'm Muhammad Umair, a passionate full-stack developer with three plus years of experience in technologies like Javascript (React js, Node js, Express js, Vue js and Next js etc) and PHP (Laravel, Codeigniter, Liveiwre etc). I'm excited about creating efficient, scalable, and innovative applications.
+Hello there! I'm Muhammad Umair, a passionate full-stack developer with three plus years of experience in technologies like Javascript (React js, Node js, Express js, Vue js and Next js etc) and PHP (Laravel, Codeigniter, Livewire etc). I'm excited about creating efficient, scalable, and innovative applications.
 
 ## About Me
 
