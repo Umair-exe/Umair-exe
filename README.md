@@ -22,7 +22,7 @@ Hello there! I'm Muhammad Umair, a passionate full-stack developer with three pl
 ## Get in Touch
 
 - 💬 Ask me about anything, I'm happy to help!
-- 📧 Email me at [youremail@example.com](mailto:m.umairbhatti1999@gmail.com)
+- 📧 Email me at [m.umairbhatti1999@gmail.com](mailto:m.umairbhatti1999@gmail.com)
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-umair-a134671bb/)
 
 ---
