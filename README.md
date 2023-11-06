@@ -4,7 +4,7 @@ Hello there! I'm Muhammad Umair, a passionate full-stack developer with three pl
 
 ## About Me
 
-- 💼 Currently working at Propay as a Full Stack Developer.
+- 💼 Currently working at 3Amigos as a Full Stack Developer.
 - 🤝 Open to collaborations and interesting projects.
 - 📫 Reach me at [m.umairbhatti1999@gmail.com](mailto:m.umairbhatti1999@gmail.com) or [LinkedIn](https://www.linkedin.com/in/muhammad-umair-a134671bb/).
 
