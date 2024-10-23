@@ -27,6 +27,6 @@ Hello there! I'm Umair Bhatti, a passionate software engineer with 3 years of ex
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=umair-exe&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahsandevtech2&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umair-exe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsandevtech2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
