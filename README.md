@@ -6,8 +6,8 @@ Hello there! I'm Umair Bhatti, a passionate software engineer with 3 years of ex
 
 - 🔭 Currently working at 3Amigos as a Full Stack Developer.
 - 👯 Open to collaborations and interesting projects.
-- 📫 Reach me at umair.shabir99@gmail.com@gmail.com or [LinkedIn](https://www.linkedin.com/in/muhammad-umair-a134671bb/).
-- 😄 Pronouns: Omar
+- 📫 Reach me at umair.shabir99@gmail.com or [LinkedIn](https://www.linkedin.com/in/muhammad-umair-a134671bb/).
+- 😄 Pronouns: Umair
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -27,6 +27,6 @@ Hello there! I'm Umair Bhatti, a passionate software engineer with 3 years of ex
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Umar-Farooq-Shafi&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=umair-exe&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Farooq-Shafi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umair-exe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
