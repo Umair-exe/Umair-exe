@@ -1,93 +1,70 @@
-# 👋 Hi, I'm Umair
+# Hi, I'm Umair
 
-Full Stack Developer with **5+ years of experience** building scalable, high-performance web applications. I specialize in delivering end-to-end solutions across frontend, backend, and cloud infrastructure.
+**Full Stack Developer** · 5+ years building production web apps end to end — frontend, backend, and cloud.
 
-I focus on writing clean, maintainable code and building systems that are reliable, efficient, and production-ready.
-
----
-
-## 🚀 About Me
-
-* 💼 **Full Stack Developer at 3Amigos**
-* 🧠 Strong expertise in modern web architectures and scalable systems
-* 🤝 Open to collaboration on innovative and impactful projects
-* 📫 **Email:** [umair.shabir99@gmail.com](mailto:umair.shabir99@gmail.com)
-* 🔗 **LinkedIn:** [Muhammad Umair](https://www.linkedin.com/in/muhammad-umair-a134671bb/)
+I care about clean architecture, reliable systems, and shipping work that holds up under real users.
 
 ---
 
-## 🛠 Tech Stack
+### Currently
 
-### Frontend
+- Full Stack Developer at **[3Amigos](https://3amigos.com)** *(update link if needed)*
+- Building scalable SaaS platforms and API-driven products
+- Open to collaboration on interesting, high-impact work
 
-* React.js (Hooks, Context API, Redux)
-* Vue.js
-* Next.js (SSR / SSG)
-* Tailwind CSS
-* JavaScript (ES6+)
-* HTML5 / CSS3
-
-### Backend
-
-* Laravel (MVC, Eloquent ORM, REST APIs)
-* Node.js (Express, NestJS)
-* PHP
-* MySQL
-* Firebase
-* GraphQL & RESTful API Development
-
-### AI & Data
-
-* Python (Scikit-learn, Pandas, NumPy)
-* TensorFlow / Keras
-* NLP (spaCy, NLTK)
-* AI API Integrations (OpenAI, Google Cloud AI, AWS AI)
-
-### DevOps & Cloud
-
-* Docker
-* AWS (EC2, S3, Lambda)
-* CI/CD (GitHub Actions, Travis CI, CircleCI)
-* Nginx
-
-### Version Control
-
-* Git & GitHub
-* GitHub Actions Automation
+**Contact:** [umair.shabir99@gmail.com](mailto:umair.shabir99@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-umair-a134671bb/)
 
 ---
 
-## 📌 Core Expertise
+### What I work with
 
-* Full Stack Application Development
-* Scalable Backend Architecture
-* API Design (REST & GraphQL)
-* SaaS Platform Development
-* Cloud Deployment & DevOps Automation
-* Database Design & Optimization
-* AI-Driven Application Integration
-
----
-
-## 🏆 Professional Highlights
-
-* Delivered scalable SaaS platforms serving thousands of users
-* Designed and implemented robust API ecosystems
-* Automated development workflows to improve deployment efficiency
-* Built high-performance applications with clean, maintainable architecture
+| Area | Stack |
+| --- | --- |
+| **Frontend** | React, Next.js (SSR/SSG), Vue.js, Redux, Tailwind CSS, TypeScript/JavaScript |
+| **Backend** | Laravel, Node.js (Express, NestJS), PHP, MySQL, Firebase, REST & GraphQL |
+| **AI / Data** | Python (Pandas, NumPy, Scikit-learn), TensorFlow/Keras, spaCy, OpenAI & cloud AI APIs |
+| **DevOps** | Docker, AWS (EC2, S3, Lambda), Nginx, GitHub Actions / CI/CD |
 
 ---
 
-## 📊 GitHub Activity
+### Focus areas
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahsandevtech2\&theme=dark\&background=000000)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=umair-exe&layout=compact&theme=vision-friendly-dark)
+- End-to-end product development (SaaS & web platforms)
+- Scalable API design and backend architecture
+- Database design and performance
+- Cloud deployment and workflow automation
+- Integrating AI into real application workflows
 
 ---
 
-## 🤝 Let’s Connect
+### Highlights
 
-If you're looking for a Full Stack Developer who values clean architecture, scalability, and performance — I’d be happy to collaborate.
+- Shipped SaaS platforms used by thousands of users
+- Designed and maintained production API ecosystems
+- Automated CI/CD to shorten release cycles
+- Prefer maintainable architecture over short-term shortcuts
 
-Feel free to reach out via email or LinkedIn.
+---
+
+### GitHub
+
+<p>
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=umair-exe&theme=dark&background=000000&hide_border=true"
+      alt="GitHub streak"
+      height="165"
+    />
+  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair-exe&layout=compact&theme=vision-friendly-dark&hide_border=true"
+    alt="Top languages"
+    height="165"
+  />
+</p>
+
+---
+
+### Let’s connect
+
+Looking for a full stack developer who values clean code, scalability, and production quality? Reach out by [email](mailto:umair.shabir99@gmail.com) or [LinkedIn](https://www.linkedin.com/in/muhammad-umair-a134671bb/) — happy to talk.
