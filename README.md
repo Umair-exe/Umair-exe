@@ -8,7 +8,7 @@ I care about clean architecture, reliable systems, and shipping work that holds 
 
 ### Currently
 
-- Full Stack Developer at **[3Amigos](https://3amigos.com)** *(update link if needed)*
+- Full Stack Developer at **[3Amigos](https://3amigos.com)**
 - Building scalable SaaS platforms and API-driven products
 - Open to collaboration on interesting, high-impact work
 
